@@ -1,0 +1,13 @@
+prefix=/Users/yogeshtodarwal/Library/CloudStorage/OneDrive-KTH/Personal/JOB/Projects/MLproject/venv
+exec_prefix=/Users/yogeshtodarwal/Library/CloudStorage/OneDrive-KTH/Personal/JOB/Projects/MLproject/venv
+libdir=/Users/yogeshtodarwal/Library/CloudStorage/OneDrive-KTH/Personal/JOB/Projects/MLproject/venv/lib
+sharedlibdir=/Users/yogeshtodarwal/Library/CloudStorage/OneDrive-KTH/Personal/JOB/Projects/MLproject/venv/lib
+includedir=/Users/yogeshtodarwal/Library/CloudStorage/OneDrive-KTH/Personal/JOB/Projects/MLproject/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
