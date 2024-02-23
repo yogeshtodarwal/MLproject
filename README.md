@@ -1,7 +1,7 @@
 # Student Performance Indicator Project
 
 ## Overview
-The "Student Performance Indicator" project is a comprehensive machine learning endeavor designed to predict student academic performance based on various factors. The model takes into account a range of features, including:
+The "Student Performance Indicator" project is a comprehensive machine learning project designed to predict student academic performance based on various factors. The model takes into account a range of features, including:
 
 - Gender
 - Race/Ethnicity
@@ -12,7 +12,10 @@ The "Student Performance Indicator" project is a comprehensive machine learning 
 - Reading Score
 - Writing Score
 
-Utilizing these features, aim is to provide insights into how different factors affect student outcomes and identify potential areas for intervention.
+Utilizing the features, aim is to provide insights into how different factors affect student outcomes and identify potential areas for intervention.
+
+The data is obtained from https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+
 
 ## Models Tested
 explored a variety of machine learning models to ensure robust and accurate predictions. The models tested include:
